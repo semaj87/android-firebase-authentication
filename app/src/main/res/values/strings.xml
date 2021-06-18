@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Psnap</string>
+    <string name="content_description">Auth screen background image</string>
+    <string name="login_title_login">LOGIN</string>
+    <string name="register_title_login">REGISTER</string>
+
+    <string name="et_hint_email_id">Email</string>
+    <string name="et_hint_password">Password</string>
+    <string name="btn_lbl_login">LOGIN</string>
+    <string name="btn_lbl_register">REGISTER</string>
+
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="lbl_forgot_password">Forgot Password?</string>
+    <string name="tv_register">Register</string>
+    <string name="register">Register</string>
+
+    <string name="login_success_message">You were logged in successfully</string>
+    <string name="forgot_password_text">Please enter your email address to generate a password reset link</string>
+</resources>
